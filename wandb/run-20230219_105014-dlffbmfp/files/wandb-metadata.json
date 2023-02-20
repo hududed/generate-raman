@@ -1,0 +1,85 @@
+{
+    "os": "Linux-5.15.0-60-generic-x86_64-with-glibc2.31",
+    "python": "3.10.0",
+    "heartbeatAt": "2023-02-19T17:50:15.066914",
+    "startedAt": "2023-02-19T17:50:14.540654",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/hud/projects/generate-raman/test.py",
+    "codePath": "test.py",
+    "git": {
+        "remote": "https://github.com/hududed/generate-raman.git",
+        "commit": "d0ae9b266cbcfd52ba9fe3164f33230b98ca4d1e"
+    },
+    "email": "hudwahab@gmail.com",
+    "root": "/home/hud/projects/generate-raman",
+    "host": "hud-PS",
+    "username": "hud",
+    "executable": "/home/hud/miniconda3/envs/syn-spec-gen/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2000.004125,
+        "min": 400.0,
+        "max": 4600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.033,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2000.0,
+            "min": 400.0,
+            "max": 4600.0
+        }
+    ],
+    "disk": {
+        "total": 337.2144470214844,
+        "used": 309.9063301086426
+    },
+    "gpu": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 31.196128845214844
+    }
+}
