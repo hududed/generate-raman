@@ -21,7 +21,7 @@ n_test = 9  # predefined variations, just here for clarity
 n_val = 10
 n_train = 50
 
-rng = np.random.default_rng(2022)
+rng = np.random.default_rng(2023)
 
 
 def vary_peaks(position_list, height_list):

@@ -6,7 +6,7 @@ import json
 import numpy as np
 
 # PARAMETERS
-n_datapoints = 1340
+n_datapoints = 5000
 boundary = 100
 n_classes = 500
 min_peaks = 2
